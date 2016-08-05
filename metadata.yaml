@@ -1,0 +1,26 @@
+_repo: The-Poetical-Works-of-Oliver-Wendell-Holmes---Volume-12--13-Verses-from-the-Oldest-Portfolio_7399
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Holmes, Oliver Wendell
+    birthdate: 1809
+    deathdate: 1894
+    gutenberg_agent_id: '387'
+    url: http://www.gutenberg.org/2009/agents/387
+    wikipedia: http://en.wikipedia.org/wiki/Oliver_Wendell_Holmes,_Sr.
+description: ''
+gutenberg_issued: '2004-09-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7399'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American poetry'
+- GITenberg
+title: "The Poetical Works of Oliver Wendell Holmes — Volume 12\r\nVerses from the\
+  \ Oldest Portfolio"
+url: http://www.gutenberg.org/ebooks/7399
