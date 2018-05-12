@@ -1,5 +1,8 @@
 _repo: The-Poetical-Works-of-Oliver-Wendell-Holmes---Volume-12--13-Verses-from-the-Oldest-Portfolio_7399
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Holmes, Oliver Wendell
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/387
     wikipedia: http://en.wikipedia.org/wiki/Oliver_Wendell_Holmes,_Sr.
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7399#The-Poetical-Works-of-Oliver-Wendell-Holmes---Volume-12--13-Verses-from-the-Oldest-Portfolio
 gutenberg_issued: '2004-09-30'
 gutenberg_type: Text
 identifiers:
